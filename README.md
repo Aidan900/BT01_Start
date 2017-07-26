@@ -1,8 +1,5 @@
-# BT01_Start
+# BattleTank_Game
 A game where **tanks** shoots each other consisting of simple ai and a simple map etc
 
 ## List_Test
-* This
-* is
-* a
-* list
+* BT01_Start
